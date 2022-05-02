@@ -1,0 +1,2 @@
+# xmlcard
+PC个人企业微信机器人接口api之实战分析微信发送xml名片消息call
